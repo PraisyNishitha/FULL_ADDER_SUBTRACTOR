@@ -85,7 +85,7 @@ assign df=w1^bin;
 assign bo=w2|w3;
 
 endmodule
-
+```
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
